@@ -1,0 +1,228 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2014026821",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026821",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026821",
+  "prefLabel": {
+    "en": "Functional music"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026616",
+      "prefLabel": {
+        "en": "Acclamations (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026681",
+      "prefLabel": {
+        "en": "Camp songs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026682",
+      "prefLabel": {
+        "en": "Campaign songs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026718",
+      "prefLabel": {
+        "en": "Circus music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026753",
+      "prefLabel": {
+        "en": "Dance music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026795",
+      "prefLabel": {
+        "en": "Event music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026922",
+      "prefLabel": {
+        "en": "Marches (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026936",
+      "prefLabel": {
+        "en": "Military music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026942",
+      "prefLabel": {
+        "en": "Mission music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026950",
+      "prefLabel": {
+        "en": "Motion picture music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026954",
+      "prefLabel": {
+        "en": "Musical games"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027015",
+      "prefLabel": {
+        "en": "Production music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027031",
+      "prefLabel": {
+        "en": "Radio music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027093",
+      "prefLabel": {
+        "en": "Singing commercials"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027132",
+      "prefLabel": {
+        "en": "Television music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027171",
+      "prefLabel": {
+        "en": "Work songs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027186",
+      "prefLabel": {
+        "en": "Background music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026069",
+      "prefLabel": {
+        "en": "Hunting music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026066",
+      "prefLabel": {
+        "en": "Computer and video game music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026028",
+      "prefLabel": {
+        "en": "National anthems"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026100",
+      "prefLabel": {
+        "en": "Ice show music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026101",
+      "prefLabel": {
+        "en": "Memorial music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026161",
+      "prefLabel": {
+        "en": "Masonic music"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://id.loc.gov/authorities/genreForms/gf2014026952",
+    "prefLabel": {
+      "en": "Music"
+    }
+  },
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

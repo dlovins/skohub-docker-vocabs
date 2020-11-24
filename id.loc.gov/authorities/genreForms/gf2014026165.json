@@ -1,0 +1,282 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2014026165",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026165",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026165",
+  "prefLabel": {
+    "en": "Reference works"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026136",
+      "prefLabel": {
+        "en": "Citators"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026373",
+      "prefLabel": {
+        "en": "Loose-leaf services"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026532",
+      "prefLabel": {
+        "en": "Repertories (Law)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026811",
+      "prefLabel": {
+        "en": "Gazetteers"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026042",
+      "prefLabel": {
+        "en": "Almanacs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026048",
+      "prefLabel": {
+        "en": "Bibliographies"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026055",
+      "prefLabel": {
+        "en": "Calendars"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026057",
+      "prefLabel": {
+        "en": "Catalogs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026062",
+      "prefLabel": {
+        "en": "Chronologies"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026070",
+      "prefLabel": {
+        "en": "Controlled vocabularies"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026086",
+      "prefLabel": {
+        "en": "Dictionaries"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026087",
+      "prefLabel": {
+        "en": "Directories"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026092",
+      "prefLabel": {
+        "en": "Encyclopedias"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026101",
+      "prefLabel": {
+        "en": "FAQs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026103",
+      "prefLabel": {
+        "en": "Finding aids"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026108",
+      "prefLabel": {
+        "en": "Guidebooks"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026109",
+      "prefLabel": {
+        "en": "Handbooks and manuals"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026112",
+      "prefLabel": {
+        "en": "Indexes"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026145",
+      "prefLabel": {
+        "en": "Phrase books"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026159",
+      "prefLabel": {
+        "en": "Quotations"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026170",
+      "prefLabel": {
+        "en": "Sayings"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026181",
+      "prefLabel": {
+        "en": "Statistics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026186",
+      "prefLabel": {
+        "en": "Tables (Data)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026199",
+      "prefLabel": {
+        "en": "Trademark lists"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026201",
+      "prefLabel": {
+        "en": "Trivia and miscellanea"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026034",
+      "prefLabel": {
+        "en": "Harmonies (Reference works)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026072",
+      "prefLabel": {
+        "en": "Ampelographies"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026039",
+      "prefLabel": {
+        "en": "Pharmacopoeias"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026068",
+      "prefLabel": {
+        "en": "Formularies (Medicine)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026106",
+      "prefLabel": {
+        "en": "Anatomical atlases"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026147",
+      "prefLabel": {
+        "en": "Checklists"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026159",
+      "prefLabel": {
+        "en": "Nomenclatures"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://id.loc.gov/authorities/genreForms/gf2014026113",
+    "prefLabel": {
+      "en": "Informational works"
+    }
+  },
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2011026387",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2011026387",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2011026387",
+  "prefLabel": {
+    "en": "Maps"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2010025067",
+      "prefLabel": {
+        "en": "Gravity anomaly maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026034",
+      "prefLabel": {
+        "en": "Aeronautical charts"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026058",
+      "prefLabel": {
+        "en": "Atlases"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026097",
+      "prefLabel": {
+        "en": "Bottle-charts"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026106",
+      "prefLabel": {
+        "en": "Cadastral maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026116",
+      "prefLabel": {
+        "en": "Celestial charts"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026124",
+      "prefLabel": {
+        "en": "Children's maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026155",
+      "prefLabel": {
+        "en": "Comparative maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026199",
+      "prefLabel": {
+        "en": "Digital maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026218",
+      "prefLabel": {
+        "en": "Early maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026284",
+      "prefLabel": {
+        "en": "Fire insurance maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026296",
+      "prefLabel": {
+        "en": "Geological maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026304",
+      "prefLabel": {
+        "en": "Gores (Maps)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026325",
+      "prefLabel": {
+        "en": "Index maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026385",
+      "prefLabel": {
+        "en": "Manuscript maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026386",
+      "prefLabel": {
+        "en": "Mappae mundi"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026394",
+      "prefLabel": {
+        "en": "Meteorological charts"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026396",
+      "prefLabel": {
+        "en": "Military maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026399",
+      "prefLabel": {
+        "en": "Mine maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026400",
+      "prefLabel": {
+        "en": "Miniature maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026418",
+      "prefLabel": {
+        "en": "Nautical charts"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026434",
+      "prefLabel": {
+        "en": "Outline maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026440",
+      "prefLabel": {
+        "en": "Physical maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026441",
+      "prefLabel": {
+        "en": "Pictorial maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026462",
+      "prefLabel": {
+        "en": "Portolan charts"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026482",
+      "prefLabel": {
+        "en": "Quadrangle maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026531",
+      "prefLabel": {
+        "en": "Remote-sensing maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026536",
+      "prefLabel": {
+        "en": "Road maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026610",
+      "prefLabel": {
+        "en": "Statistical maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026613",
+      "prefLabel": {
+        "en": "Stick charts"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026617",
+      "prefLabel": {
+        "en": "Strip maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026690",
+      "prefLabel": {
+        "en": "Thematic maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026697",
+      "prefLabel": {
+        "en": "Topographic maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026699",
+      "prefLabel": {
+        "en": "Tourist maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026728",
+      "prefLabel": {
+        "en": "Wall maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026743",
+      "prefLabel": {
+        "en": "World maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026752",
+      "prefLabel": {
+        "en": "Zoning maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026755",
+      "prefLabel": {
+        "en": "Photomaps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026756",
+      "prefLabel": {
+        "en": "Flow maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2012025007",
+      "prefLabel": {
+        "en": "Upside-down maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2012025033",
+      "prefLabel": {
+        "en": "Mental maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026012",
+      "prefLabel": {
+        "en": "Ethnographic maps"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026068",
+      "prefLabel": {
+        "en": "Topological maps"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

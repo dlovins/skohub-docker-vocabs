@@ -1,0 +1,150 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2011026654",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2011026654",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2011026654",
+  "prefLabel": {
+    "en": "Television comedies"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026191",
+      "prefLabel": {
+        "en": "Dark comedy television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026211",
+      "prefLabel": {
+        "en": "Domestic comedy television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026241",
+      "prefLabel": {
+        "en": "Fantasy comedies (Television programs)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026437",
+      "prefLabel": {
+        "en": "Parody television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026546",
+      "prefLabel": {
+        "en": "Romantic comedy television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026550",
+      "prefLabel": {
+        "en": "Rural comedy television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026579",
+      "prefLabel": {
+        "en": "Situation comedies (Television programs)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026581",
+      "prefLabel": {
+        "en": "Sketch comedy television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026583",
+      "prefLabel": {
+        "en": "Slapstick comedy television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026592",
+      "prefLabel": {
+        "en": "Sophisticated comedy television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2012025035",
+      "prefLabel": {
+        "en": "Satirical television programs"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

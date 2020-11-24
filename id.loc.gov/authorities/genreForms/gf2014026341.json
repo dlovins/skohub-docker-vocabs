@@ -1,0 +1,174 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2014026341",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026341",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026341",
+  "prefLabel": {
+    "en": "Folk drama"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026408",
+      "prefLabel": {
+        "en": "Lenong plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026444",
+      "prefLabel": {
+        "en": "Mummers' plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026494",
+      "prefLabel": {
+        "en": "Purim plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026019",
+      "prefLabel": {
+        "en": "Burrakatha plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026020",
+      "prefLabel": {
+        "en": "Calonarang plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026023",
+      "prefLabel": {
+        "en": "Kamyŏn'gŭk plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026025",
+      "prefLabel": {
+        "en": "Kōlam drama"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026026",
+      "prefLabel": {
+        "en": "Kotéba plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026029",
+      "prefLabel": {
+        "en": "Kur̲avañci plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026030",
+      "prefLabel": {
+        "en": "Lakhō̜n chātrī plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026031",
+      "prefLabel": {
+        "en": "Lian hua lao"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026033",
+      "prefLabel": {
+        "en": "Makyung plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026036",
+      "prefLabel": {
+        "en": "Sandae drama"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026037",
+      "prefLabel": {
+        "en": "Sannata drama"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026060",
+      "prefLabel": {
+        "en": "Barong plays"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

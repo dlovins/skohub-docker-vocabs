@@ -1,0 +1,588 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2014026339",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026339",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026339",
+  "prefLabel": {
+    "en": "Fiction"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026217",
+      "prefLabel": {
+        "en": "Action and adventure fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026220",
+      "prefLabel": {
+        "en": "Alternative histories (Fiction)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026240",
+      "prefLabel": {
+        "en": "Bible fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026243",
+      "prefLabel": {
+        "en": "Bildungsromans"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026246",
+      "prefLabel": {
+        "en": "Biographical fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026259",
+      "prefLabel": {
+        "en": "Choose-your-own stories"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026271",
+      "prefLabel": {
+        "en": "Confessional fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026280",
+      "prefLabel": {
+        "en": "Detective and mystery fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026283",
+      "prefLabel": {
+        "en": "Dialect fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026286",
+      "prefLabel": {
+        "en": "Diary fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026288",
+      "prefLabel": {
+        "en": "Didactic fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026295",
+      "prefLabel": {
+        "en": "Domestic fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026309",
+      "prefLabel": {
+        "en": "Epic fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026314",
+      "prefLabel": {
+        "en": "Epistolary fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026320",
+      "prefLabel": {
+        "en": "Erotic fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026325",
+      "prefLabel": {
+        "en": "Experimental fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026330",
+      "prefLabel": {
+        "en": "Fan fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026333",
+      "prefLabel": {
+        "en": "Fantasy fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026340",
+      "prefLabel": {
+        "en": "Fictional autobiographies"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026344",
+      "prefLabel": {
+        "en": "Folk tales"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026347",
+      "prefLabel": {
+        "en": "Frame stories"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026360",
+      "prefLabel": {
+        "en": "Gothic fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026370",
+      "prefLabel": {
+        "en": "Historical fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026373",
+      "prefLabel": {
+        "en": "Horror fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026377",
+      "prefLabel": {
+        "en": "Humorous fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026381",
+      "prefLabel": {
+        "en": "Hypertext fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026406",
+      "prefLabel": {
+        "en": "Legal fiction (Literature)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026424",
+      "prefLabel": {
+        "en": "Magic realist fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026430",
+      "prefLabel": {
+        "en": "Medical fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026454",
+      "prefLabel": {
+        "en": "Nonfiction novels"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026456",
+      "prefLabel": {
+        "en": "Novelle"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026469",
+      "prefLabel": {
+        "en": "Paranormal fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026475",
+      "prefLabel": {
+        "en": "Pastoral fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026479",
+      "prefLabel": {
+        "en": "Picaresque fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026482",
+      "prefLabel": {
+        "en": "Political fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026492",
+      "prefLabel": {
+        "en": "Psychological fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026502",
+      "prefLabel": {
+        "en": "Religious fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026513",
+      "prefLabel": {
+        "en": "Road fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026514",
+      "prefLabel": {
+        "en": "Robinsonades"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026516",
+      "prefLabel": {
+        "en": "Romance fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026518",
+      "prefLabel": {
+        "en": "Romans à clef"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026529",
+      "prefLabel": {
+        "en": "Science fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026537",
+      "prefLabel": {
+        "en": "Serialized fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026542",
+      "prefLabel": {
+        "en": "Short stories"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026555",
+      "prefLabel": {
+        "en": "Spy fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026559",
+      "prefLabel": {
+        "en": "Stories in rhyme"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026571",
+      "prefLabel": {
+        "en": "Thrillers (Fiction)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026581",
+      "prefLabel": {
+        "en": "Urban fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026583",
+      "prefLabel": {
+        "en": "Utopian fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026590",
+      "prefLabel": {
+        "en": "War fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026594",
+      "prefLabel": {
+        "en": "Western fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026019",
+      "prefLabel": {
+        "en": "Novellas"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026020",
+      "prefLabel": {
+        "en": "Novels"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026095",
+      "prefLabel": {
+        "en": "Nature fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026110",
+      "prefLabel": {
+        "en": "Sports fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026112",
+      "prefLabel": {
+        "en": "Samurai fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026001",
+      "prefLabel": {
+        "en": "Philosophical fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026002",
+      "prefLabel": {
+        "en": "Nonsense fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026006",
+      "prefLabel": {
+        "en": "Sea fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026090",
+      "prefLabel": {
+        "en": "Mathematical fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026098",
+      "prefLabel": {
+        "en": "Mythological fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026101",
+      "prefLabel": {
+        "en": "Martial arts fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026104",
+      "prefLabel": {
+        "en": "Scar literature"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026011",
+      "prefLabel": {
+        "en": "Christmas fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026013",
+      "prefLabel": {
+        "en": "Easter fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026032",
+      "prefLabel": {
+        "en": "Campus fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026034",
+      "prefLabel": {
+        "en": "Animal fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026040",
+      "prefLabel": {
+        "en": "Social problem fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026122",
+      "prefLabel": {
+        "en": "Gay fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026141",
+      "prefLabel": {
+        "en": "Hunting fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026142",
+      "prefLabel": {
+        "en": "Cryptologic fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026001",
+      "prefLabel": {
+        "en": "Lesbian fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026025",
+      "prefLabel": {
+        "en": "Fishing fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026026",
+      "prefLabel": {
+        "en": "Military fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026027",
+      "prefLabel": {
+        "en": "Transgender fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026032",
+      "prefLabel": {
+        "en": "Prison fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026053",
+      "prefLabel": {
+        "en": "Bisexual fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026099",
+      "prefLabel": {
+        "en": "Light novels"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026127",
+      "prefLabel": {
+        "en": "Monster fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2019026069",
+      "prefLabel": {
+        "en": "Bizarro fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2019026070",
+      "prefLabel": {
+        "en": "Gangster fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2019026073",
+      "prefLabel": {
+        "en": "Ethnographic fiction"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2019026075",
+      "prefLabel": {
+        "en": "Sensation fiction"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://id.loc.gov/authorities/genreForms/gf2014026415",
+    "prefLabel": {
+      "en": "Literature"
+    }
+  },
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

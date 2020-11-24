@@ -1,0 +1,150 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2014026379",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026379",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026379",
+  "prefLabel": {
+    "en": "Humorous poetry"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026255",
+      "prefLabel": {
+        "en": "Calaveras"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026261",
+      "prefLabel": {
+        "en": "Clerihews"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026328",
+      "prefLabel": {
+        "en": "Fabliaux"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026399",
+      "prefLabel": {
+        "en": "Kyōka"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026412",
+      "prefLabel": {
+        "en": "Limericks"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026438",
+      "prefLabel": {
+        "en": "Mock-heroic poetry"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026455",
+      "prefLabel": {
+        "en": "Nonsense verse"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026506",
+      "prefLabel": {
+        "en": "Renku"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026524",
+      "prefLabel": {
+        "en": "Sasŏl sijo"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026528",
+      "prefLabel": {
+        "en": "Schnaderhüpfel"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026534",
+      "prefLabel": {
+        "en": "Senryu"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

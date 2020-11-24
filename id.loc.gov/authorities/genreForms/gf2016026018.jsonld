@@ -1,0 +1,162 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2016026018",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2016026018",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2016026018",
+  "prefLabel": {
+    "en": "Dance drama"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026020",
+      "prefLabel": {
+        "en": "Calonarang plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026023",
+      "prefLabel": {
+        "en": "Kamyŏn'gŭk plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026024",
+      "prefLabel": {
+        "en": "Khōn plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026025",
+      "prefLabel": {
+        "en": "Kōlam drama"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026029",
+      "prefLabel": {
+        "en": "Kur̲avañci plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026030",
+      "prefLabel": {
+        "en": "Lakhō̜n chātrī plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026033",
+      "prefLabel": {
+        "en": "Makyung plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026035",
+      "prefLabel": {
+        "en": "Rāsalīlā drama"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026036",
+      "prefLabel": {
+        "en": "Sandae drama"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026039",
+      "prefLabel": {
+        "en": "Topeng plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026040",
+      "prefLabel": {
+        "en": "Yakṣagāna plays"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026060",
+      "prefLabel": {
+        "en": "Barong plays"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://id.loc.gov/authorities/genreForms/gf2014026297",
+    "prefLabel": {
+      "en": "Drama"
+    }
+  },
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

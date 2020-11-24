@@ -1,0 +1,552 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2011026673",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2011026673",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2011026673",
+  "prefLabel": {
+    "en": "Television programs"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026006",
+      "prefLabel": {
+        "en": "Action and adventure television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026048",
+      "prefLabel": {
+        "en": "Animal television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026050",
+      "prefLabel": {
+        "en": "Animated television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026052",
+      "prefLabel": {
+        "en": "Anthology television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026067",
+      "prefLabel": {
+        "en": "Aviation television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026091",
+      "prefLabel": {
+        "en": "Biographical television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026102",
+      "prefLabel": {
+        "en": "Buddy television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026109",
+      "prefLabel": {
+        "en": "Caper television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026127",
+      "prefLabel": {
+        "en": "Children's television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026133",
+      "prefLabel": {
+        "en": "Christmas television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026146",
+      "prefLabel": {
+        "en": "College life television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026158",
+      "prefLabel": {
+        "en": "Compilation television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026176",
+      "prefLabel": {
+        "en": "Credit titles"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026178",
+      "prefLabel": {
+        "en": "Cultural television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026201",
+      "prefLabel": {
+        "en": "Disaster television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026224",
+      "prefLabel": {
+        "en": "Environmental television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026228",
+      "prefLabel": {
+        "en": "Erotic television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026231",
+      "prefLabel": {
+        "en": "Ethnic television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026252",
+      "prefLabel": {
+        "en": "Fiction television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026315",
+      "prefLabel": {
+        "en": "Historical television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026318",
+      "prefLabel": {
+        "en": "Home shopping television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026323",
+      "prefLabel": {
+        "en": "Horror television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026359",
+      "prefLabel": {
+        "en": "Legal television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026369",
+      "prefLabel": {
+        "en": "Live television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026381",
+      "prefLabel": {
+        "en": "Made-for-TV movies"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026392",
+      "prefLabel": {
+        "en": "Medical television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026398",
+      "prefLabel": {
+        "en": "Military television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026403",
+      "prefLabel": {
+        "en": "Monster television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026413",
+      "prefLabel": {
+        "en": "Music videos"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026425",
+      "prefLabel": {
+        "en": "Nonfiction television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026429",
+      "prefLabel": {
+        "en": "Opera television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026435",
+      "prefLabel": {
+        "en": "Outtakes"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026450",
+      "prefLabel": {
+        "en": "Podcasts"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026461",
+      "prefLabel": {
+        "en": "Pornographic television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026473",
+      "prefLabel": {
+        "en": "Propaganda television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026481",
+      "prefLabel": {
+        "en": "Puppet television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026528",
+      "prefLabel": {
+        "en": "Religious television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026537",
+      "prefLabel": {
+        "en": "Road television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026544",
+      "prefLabel": {
+        "en": "Romance television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026552",
+      "prefLabel": {
+        "en": "Rushes (Television programs)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026554",
+      "prefLabel": {
+        "en": "Samurai television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026564",
+      "prefLabel": {
+        "en": "Screen tests"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026573",
+      "prefLabel": {
+        "en": "Show business television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026590",
+      "prefLabel": {
+        "en": "Social problem television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026600",
+      "prefLabel": {
+        "en": "Sponsored television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026603",
+      "prefLabel": {
+        "en": "Sports television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026606",
+      "prefLabel": {
+        "en": "Spy television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026614",
+      "prefLabel": {
+        "en": "Stock footage"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026627",
+      "prefLabel": {
+        "en": "Survival television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026633",
+      "prefLabel": {
+        "en": "Teen television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026653",
+      "prefLabel": {
+        "en": "Television adaptations"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026654",
+      "prefLabel": {
+        "en": "Television comedies"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026655",
+      "prefLabel": {
+        "en": "Television commercials"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026659",
+      "prefLabel": {
+        "en": "Television dance parties"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026661",
+      "prefLabel": {
+        "en": "Television game shows"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026666",
+      "prefLabel": {
+        "en": "Television musicals"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026671",
+      "prefLabel": {
+        "en": "Television program clips"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026672",
+      "prefLabel": {
+        "en": "Television program excerpts"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026674",
+      "prefLabel": {
+        "en": "Television programs for people with visual disabilities"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026675",
+      "prefLabel": {
+        "en": "Television programs for the hearing impaired"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026676",
+      "prefLabel": {
+        "en": "Television public service announcements"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026677",
+      "prefLabel": {
+        "en": "Television quiz shows"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026678",
+      "prefLabel": {
+        "en": "Television remakes"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026680",
+      "prefLabel": {
+        "en": "Television series"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026683",
+      "prefLabel": {
+        "en": "Television specials"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026694",
+      "prefLabel": {
+        "en": "Thrillers (Television programs)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026712",
+      "prefLabel": {
+        "en": "Unedited footage"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026731",
+      "prefLabel": {
+        "en": "War television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026732",
+      "prefLabel": {
+        "en": "Webisodes"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026737",
+      "prefLabel": {
+        "en": "Western television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026786",
+      "prefLabel": {
+        "en": "Kinescope films"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2013025009",
+      "prefLabel": {
+        "en": "Interstitial television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027133",
+      "prefLabel": {
+        "en": "Television operas"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026112",
+      "prefLabel": {
+        "en": "Paranormal television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026075",
+      "prefLabel": {
+        "en": "Gay television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026076",
+      "prefLabel": {
+        "en": "Lesbian television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026077",
+      "prefLabel": {
+        "en": "Transgender television programs"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://id.loc.gov/authorities/genreForms/gf2017027266",
+    "prefLabel": {
+      "en": "Visual works"
+    }
+  },
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

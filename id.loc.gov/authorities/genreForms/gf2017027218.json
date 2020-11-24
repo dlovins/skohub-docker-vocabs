@@ -1,0 +1,156 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2017027218",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2017027218",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2017027218",
+  "prefLabel": {
+    "en": "Art"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017027220",
+      "prefLabel": {
+        "en": "Artists' books"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017027227",
+      "prefLabel": {
+        "en": "Collages"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017027229",
+      "prefLabel": {
+        "en": "Digital art"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017027242",
+      "prefLabel": {
+        "en": "Mail art"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017027244",
+      "prefLabel": {
+        "en": "Mixed media works"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017027246",
+      "prefLabel": {
+        "en": "Paintings"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017027250",
+      "prefLabel": {
+        "en": "Photomontages"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017027259",
+      "prefLabel": {
+        "en": "Sculptures"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017027265",
+      "prefLabel": {
+        "en": "Video art"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2019026024",
+      "prefLabel": {
+        "en": "Installation works (Art)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2019026025",
+      "prefLabel": {
+        "en": "Multiples (Art)"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://id.loc.gov/authorities/genreForms/gf2017027266",
+    "prefLabel": {
+      "en": "Visual works"
+    }
+  },
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

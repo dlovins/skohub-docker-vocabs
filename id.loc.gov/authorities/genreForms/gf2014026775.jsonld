@@ -1,0 +1,288 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2014026775",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026775",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026775",
+  "prefLabel": {
+    "en": "Dramatic music"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026645",
+      "prefLabel": {
+        "en": "Ballad operas"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026650",
+      "prefLabel": {
+        "en": "Ballets (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026727",
+      "prefLabel": {
+        "en": "Congadas (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026765",
+      "prefLabel": {
+        "en": "Dialogues (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026787",
+      "prefLabel": {
+        "en": "Entremés (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026852",
+      "prefLabel": {
+        "en": "Hát bội"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026853",
+      "prefLabel": {
+        "en": "Hát chèo (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026873",
+      "prefLabel": {
+        "en": "Incidental music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026943",
+      "prefLabel": {
+        "en": "Modern dance music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026950",
+      "prefLabel": {
+        "en": "Motion picture music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026957",
+      "prefLabel": {
+        "en": "Musicals"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026976",
+      "prefLabel": {
+        "en": "Operas"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026977",
+      "prefLabel": {
+        "en": "Oratorios"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026982",
+      "prefLabel": {
+        "en": "P'ansori"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027038",
+      "prefLabel": {
+        "en": "Rappresentazioni sacre (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027050",
+      "prefLabel": {
+        "en": "Revues"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027084",
+      "prefLabel": {
+        "en": "Serenatas"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027183",
+      "prefLabel": {
+        "en": "Pantomimes (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026012",
+      "prefLabel": {
+        "en": "Chinese operas"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026021",
+      "prefLabel": {
+        "en": "Jōruri (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026034",
+      "prefLabel": {
+        "en": "Ping ju"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026041",
+      "prefLabel": {
+        "en": "Bangsawan (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026042",
+      "prefLabel": {
+        "en": "Barong (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026043",
+      "prefLabel": {
+        "en": "Ch'anggŭk"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026044",
+      "prefLabel": {
+        "en": "Hira gasy"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026048",
+      "prefLabel": {
+        "en": "Madrigal comedies"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026050",
+      "prefLabel": {
+        "en": "Masques (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026051",
+      "prefLabel": {
+        "en": "Melodramas (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026055",
+      "prefLabel": {
+        "en": "Monologues (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026057",
+      "prefLabel": {
+        "en": "Musical theater"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026058",
+      "prefLabel": {
+        "en": "Wayang music"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026059",
+      "prefLabel": {
+        "en": "Zarzuelas"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026046",
+      "prefLabel": {
+        "en": "Pasticcios (Music)"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://id.loc.gov/authorities/genreForms/gf2014026952",
+    "prefLabel": {
+      "en": "Music"
+    }
+  },
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

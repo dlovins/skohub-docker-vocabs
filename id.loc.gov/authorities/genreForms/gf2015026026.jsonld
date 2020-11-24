@@ -1,0 +1,264 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2015026026",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2015026026",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2015026026",
+  "prefLabel": {
+    "en": "Religious materials"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014027085",
+      "prefLabel": {
+        "en": "Service books (Music)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026025",
+      "prefLabel": {
+        "en": "Apocryphal works"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026027",
+      "prefLabel": {
+        "en": "Apologetic writings"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026028",
+      "prefLabel": {
+        "en": "Call documents"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026029",
+      "prefLabel": {
+        "en": "Catechisms"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026030",
+      "prefLabel": {
+        "en": "Chirographa (Personal correspondence)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026031",
+      "prefLabel": {
+        "en": "Creeds"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026032",
+      "prefLabel": {
+        "en": "Hagiographies"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026033",
+      "prefLabel": {
+        "en": "Martyrologies"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026035",
+      "prefLabel": {
+        "en": "Ijāzah"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026036",
+      "prefLabel": {
+        "en": "Koans"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026039",
+      "prefLabel": {
+        "en": "Liturgical books"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026040",
+      "prefLabel": {
+        "en": "Mandalas"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026041",
+      "prefLabel": {
+        "en": "Mashyakhah"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026042",
+      "prefLabel": {
+        "en": "Monastic constitutions"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026043",
+      "prefLabel": {
+        "en": "Myths"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026044",
+      "prefLabel": {
+        "en": "Papal documents"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026045",
+      "prefLabel": {
+        "en": "Sacred works"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026046",
+      "prefLabel": {
+        "en": "Parashiyot ha-shavua"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026047",
+      "prefLabel": {
+        "en": "Pastoral letters and charges"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026048",
+      "prefLabel": {
+        "en": "Pilgrimage guides"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026049",
+      "prefLabel": {
+        "en": "Prayers"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026050",
+      "prefLabel": {
+        "en": "Religious inventories"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026051",
+      "prefLabel": {
+        "en": "Sermons"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026054",
+      "prefLabel": {
+        "en": "Church orders"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026055",
+      "prefLabel": {
+        "en": "Church covenants"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026057",
+      "prefLabel": {
+        "en": "Devotional literature"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026058",
+      "prefLabel": {
+        "en": "Monastic rules"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026019",
+      "prefLabel": {
+        "en": "Fatwas"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026137",
+      "prefLabel": {
+        "en": "Thumb Bibles"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2014026266",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026266",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2014026266",
+  "prefLabel": {
+    "en": "Comics (Graphic works)"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026216",
+      "prefLabel": {
+        "en": "Action and adventure comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026279",
+      "prefLabel": {
+        "en": "Detective and mystery comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026318",
+      "prefLabel": {
+        "en": "Erotic comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026331",
+      "prefLabel": {
+        "en": "Fantasy comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026345",
+      "prefLabel": {
+        "en": "Fotonovelas"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026362",
+      "prefLabel": {
+        "en": "Graphic novels"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026363",
+      "prefLabel": {
+        "en": "Grassroots comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026368",
+      "prefLabel": {
+        "en": "Historical comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026372",
+      "prefLabel": {
+        "en": "Horror comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026376",
+      "prefLabel": {
+        "en": "Humorous comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026453",
+      "prefLabel": {
+        "en": "Nonfiction comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026468",
+      "prefLabel": {
+        "en": "Paranormal comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026485",
+      "prefLabel": {
+        "en": "Pornographic comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026500",
+      "prefLabel": {
+        "en": "Religious comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026515",
+      "prefLabel": {
+        "en": "Romance comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026530",
+      "prefLabel": {
+        "en": "Science fiction comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026553",
+      "prefLabel": {
+        "en": "Sports comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026554",
+      "prefLabel": {
+        "en": "Spy comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026562",
+      "prefLabel": {
+        "en": "Superhero comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026563",
+      "prefLabel": {
+        "en": "Thriller comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026580",
+      "prefLabel": {
+        "en": "Underground comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026589",
+      "prefLabel": {
+        "en": "War comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026593",
+      "prefLabel": {
+        "en": "Western comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2015026024",
+      "prefLabel": {
+        "en": "Samurai comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026005",
+      "prefLabel": {
+        "en": "Comics adaptations"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026073",
+      "prefLabel": {
+        "en": "Mythological comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026107",
+      "prefLabel": {
+        "en": "Coming-of-age comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026131",
+      "prefLabel": {
+        "en": "Funny animal comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026159",
+      "prefLabel": {
+        "en": "Political comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026010",
+      "prefLabel": {
+        "en": "Lesbian comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026011",
+      "prefLabel": {
+        "en": "Gay comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026062",
+      "prefLabel": {
+        "en": "Bisexual comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026063",
+      "prefLabel": {
+        "en": "Transgender comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026111",
+      "prefLabel": {
+        "en": "Legal comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2018026149",
+      "prefLabel": {
+        "en": "Medical comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2019026005",
+      "prefLabel": {
+        "en": "Domestic comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2019026048",
+      "prefLabel": {
+        "en": "Psychological comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2019026079",
+      "prefLabel": {
+        "en": "Social issue comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2019026084",
+      "prefLabel": {
+        "en": "Wordless comics"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2019026088",
+      "prefLabel": {
+        "en": "School comics"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2011026424",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2011026424",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2011026424",
+  "prefLabel": {
+    "en": "Nonfiction radio programs"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026070",
+      "prefLabel": {
+        "en": "Award presentations (Radio programs)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026094",
+      "prefLabel": {
+        "en": "Book review radio programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026153",
+      "prefLabel": {
+        "en": "Community affairs radio programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026206",
+      "prefLabel": {
+        "en": "Documentary radio programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026305",
+      "prefLabel": {
+        "en": "Gossip radio programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026334",
+      "prefLabel": {
+        "en": "Instructional radio programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026382",
+      "prefLabel": {
+        "en": "Magazine format radio programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026475",
+      "prefLabel": {
+        "en": "Public affairs radio programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026478",
+      "prefLabel": {
+        "en": "Public service radio programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026491",
+      "prefLabel": {
+        "en": "Radio commentaries"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026496",
+      "prefLabel": {
+        "en": "Radio field reports"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026501",
+      "prefLabel": {
+        "en": "Radio news programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026516",
+      "prefLabel": {
+        "en": "Radio sports events"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026518",
+      "prefLabel": {
+        "en": "Radio talk shows"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026521",
+      "prefLabel": {
+        "en": "Reality radio programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026596",
+      "prefLabel": {
+        "en": "Special events radio coverage"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026629",
+      "prefLabel": {
+        "en": "Talent shows (Radio programs)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026719",
+      "prefLabel": {
+        "en": "Variety shows (Radio programs)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026802",
+      "prefLabel": {
+        "en": "Radio actualities"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2016026083",
+      "prefLabel": {
+        "en": "Radio lectures"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://id.loc.gov/authorities/genreForms/gf2011026506",
+    "prefLabel": {
+      "en": "Radio programs"
+    }
+  },
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "id": "http://id.loc.gov/authorities/genreForms/gf2017026038",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2017026038",
+  "inbox": "https://test.skohub.io/inbox?target=id.loc.gov%2Fauthorities%2FgenreForms%2Fgf2017026038",
+  "prefLabel": {
+    "en": "Promotional materials"
+  },
+  "narrower": [
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026263",
+      "prefLabel": {
+        "en": "Film trailers"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026470",
+      "prefLabel": {
+        "en": "Promotional films"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026471",
+      "prefLabel": {
+        "en": "Promotional television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026472",
+      "prefLabel": {
+        "en": "Propaganda films"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026473",
+      "prefLabel": {
+        "en": "Propaganda television programs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026477",
+      "prefLabel": {
+        "en": "Public service announcements (Motion pictures)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026507",
+      "prefLabel": {
+        "en": "Radio propaganda"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026508",
+      "prefLabel": {
+        "en": "Radio public service announcements"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2011026676",
+      "prefLabel": {
+        "en": "Television public service announcements"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026148",
+      "prefLabel": {
+        "en": "Playbills (Posters)"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2014026682",
+      "prefLabel": {
+        "en": "Campaign songs"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026037",
+      "prefLabel": {
+        "en": "Political posters"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026078",
+      "prefLabel": {
+        "en": "Travel posters"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017026096",
+      "prefLabel": {
+        "en": "Propaganda posters"
+      }
+    },
+    {
+      "id": "http://id.loc.gov/authorities/genreForms/gf2017027215",
+      "prefLabel": {
+        "en": "Advertisements"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://id.loc.gov/authorities/genreForms/gf2014026113",
+    "prefLabel": {
+      "en": "Informational works"
+    }
+  },
+  "inScheme": {
+    "id": "http://id.loc.gov/authorities/genreForms"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}
